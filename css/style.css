@@ -1,0 +1,168 @@
+.myclass {
+    width: 100%;
+    height: 108px;
+    background-color: #2A2A2E;
+    float: left;
+    position: absolute;
+    top:0px;
+    z-index: 1;
+}
+
+.other {
+    width: 304px;
+    height: 100px;
+    background-color: red;
+    float: left;
+}
+
+.st_for_txt {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.ddd {
+   font-size: 200%;
+}
+
+.hhh {
+    position: absolute;
+    top:0px;
+    z-index: 2;
+    color:#8B008B;
+}
+
+
+body {
+    margin:0px;
+}
+.fff {
+    position: fixed;
+    right: -172px;
+    top:100px;
+    z-index: 3;
+}
+.iii {
+    position: fixed;
+    right:100px;
+    top:100px;
+    z-index: 3;
+}
+.lll {
+    position: fixed;
+    right:370px;
+    top:100px;
+    z-index: 3;
+}
+.aaa {
+    position: fixed;
+    right:641px;
+    top:100px;
+    z-index: 3;
+}
+.kkk {
+    position: fixed;
+    right:910px;
+    top:100px;
+    z-index: 3;
+}
+.pegr {
+    width: 304px;
+    height: 100px;
+    color:#8B008B;
+    position: fixed;
+    top:380px;
+    float: left;
+    margin-left: 1720px;
+}
+.boom {
+    width: 304px;
+    height: 100px;
+    color:#8B008B;
+    position: fixed;
+    top:380px;
+    float: left;
+    margin-left: 1452px;
+}
+.joom {
+    width: 304px;
+    height: 100px;
+    color:#8B008B;
+    position: fixed;
+    top:380px;
+    float: left;
+    margin-left: 1194px;
+}
+.look {
+    width: 304px;
+    height: 100px;
+    color:#8B008B;
+    position: fixed;
+    top:380px;
+    float: left;
+    margin-left: 894px;
+}
+.hook {
+    width: 304px;
+    height: 100px;
+    color:#8B008B;
+    position: fixed;
+    top:408px;
+    float: left;
+    margin-left: 921px;
+}
+.room {
+    width: 304px;
+    height: 100px;
+    color:#8B008B;
+    position: fixed;
+    top:377px;
+    float: left;
+    margin-left: 648px;
+}
+.gory {
+    width: 304px;
+    height: 100px;
+    color:#8B008B;
+    position: fixed;
+    top:399px;
+    float: left;
+    margin-left: 657px;
+}
+.kart {
+    width: 304px;
+    height: 100px;
+    color:#8B008B;
+    position: fixed;
+    top:83px;
+    float: left;
+    margin-left: 35px;
+}
+.food {
+    width: 300px;
+    height: 100px;
+    color:#8B008B;
+    position: fixed;
+    top:109px;
+    float: left;
+    margin-left: 273px;
+    font-size: x-small;
+}
+.kek {
+    position: absolute;;
+    top:100px;
+
+}
+.mmm {
+    position: absolute;;
+    top:617px;
+    margin-left: 516px;
+    
+}
+.qqq {
+    position: absolute;;
+    top:651px;
+    margin-left: 1073px;
+    
+}
