@@ -166,3 +166,11 @@ body {
     margin-left: 1073px;
     
 }
+
+.slider {
+    width: 300px;
+    height: 150px;
+    border: 2px solid white;
+    margin-left: 100px;
+    margin-top: 600px;
+}

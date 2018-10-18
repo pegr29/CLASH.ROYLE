@@ -42,8 +42,8 @@ function view(arg) {
 // block.danil ="rom"
 // block.sergei ="kod"
 // block.speak =function(){
-//	return "dom"
-//}
+// 	return "dom"
+// }
 // view(block.speak());
 // view(block.vova);
 // view(block.danil);
@@ -52,3 +52,13 @@ function view(arg) {
 var v1 = document.getElementById("pegr");
 var cells = v1.getElementsByTagName("p");
 view(cells);
+
+$(document).ready(function(){
+$('.slider').bxSlider({
+  auto: true,
+  autoControls: true,
+  stopAutoOnClick: true,
+  pager: true,
+  slideWidth: 300
+});
+});
